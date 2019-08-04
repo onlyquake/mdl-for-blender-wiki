@@ -7,7 +7,7 @@ Originally developed by taniwha for QuakeForge, updated for Blender 2.8 by [khre
 
 - **Blender 2.7x** (outdated but functional): [zip](https://bitbucket.org/khreathor/mdl-for-blender/get/master.zip) / [gz](https://bitbucket.org/khreathor/mdl-for-blender/get/master.tar.gz) / [bz2](https://bitbucket.org/khreathor/mdl-for-blender/get/master.tar.bz2)
 
-### Tutorial: ###
+### Tutorial (for 2.8 version): ###
 - **[Installation](https://bitbucket.org/khreathor/mdl-for-blender/wiki/Installation)**
 - **[Scene Setup](https://bitbucket.org/khreathor/mdl-for-blender/wiki/Scene%20Setup)**
 - **[Materials](https://bitbucket.org/khreathor/mdl-for-blender/wiki/Materials)**
