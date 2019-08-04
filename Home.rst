@@ -2,11 +2,9 @@
 Quake MDL import/export plugin for Blender 
 =====
 .. image:: https://bitbucket.org/repo/p4Gp9Be/images/2987863032-plugin_01.jpg
- :height: 100px
- :width: 200 px
  :scale: 25 %
  :alt: plugin_01.jpg
- :align: right
+
 About:
 --------
 Mdl exporter/importer for Blender 2.8 (and 2.7x).
