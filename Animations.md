@@ -1,4 +1,4 @@
-### Animation ###
+### Animations ###
 Imported animation is represented as a sequence of animated **shape keys**
 
 ![shapekeys.jpg](https://bitbucket.org/repo/p4Gp9Be/images/2366550453-shapekeys.jpg)
