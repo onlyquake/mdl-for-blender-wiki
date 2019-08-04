@@ -1,3 +1,4 @@
+![plugin_01.jpg](https://bitbucket.org/repo/p4Gp9Be/images/2987863032-plugin_01.jpg)
 ### About: ###
 Mdl exporter/importer for Blender 2.8 (and 2.7x).
 Originally developed by taniwha for QuakeForge, updated for Blender 2.8 by [khreathor](https://twitter.com/khreathor) with a little help of [queenjaz](https://twitter.com/jazzmickle).
