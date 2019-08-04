@@ -2,7 +2,8 @@
 
 > Before You start, I recommend You to import some existing MDL file first. This way You'll understand skin/material concept better
 
-Every **skingroup** is represented as one **material** on a mesh. You can have multiple skingroups and each skingroup can have multiple **skins** inside. 
+Every **skingroup** is represented as one **material** on a mesh. You can have multiple skingroups and each skingroup can have multiple **skins** inside.
+
 In most cases, models will have one **skingroup** with one **skin** (which becomes a single skin setup). Image below shows a mesh with three skingroups:
 
 ![skingroups.jpg](https://bitbucket.org/repo/p4Gp9Be/images/2851408010-skingroups.jpg)
