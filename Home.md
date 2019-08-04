@@ -11,3 +11,4 @@ Originally developed by taniwha for QuakeForge, updated for Blender 2.8 by [khre
 - **[Installation](https://bitbucket.org/khreathor/mdl-for-blender/wiki/Installation)**
 - **[Scene Setup](https://bitbucket.org/khreathor/mdl-for-blender/wiki/Scene%20Setup)**
 - **[Materials](https://bitbucket.org/khreathor/mdl-for-blender/wiki/Materials)**
+- **[Animations](https://bitbucket.org/khreathor/mdl-for-blender/wiki/Animations)**
