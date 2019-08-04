@@ -7,6 +7,6 @@
 
 ![anim_range.jpg](https://bitbucket.org/repo/p4Gp9Be/images/2859680947-anim_range.jpg)
 
-* Textures will be visible in scene, after you enable diplay mode called "**LookDev**": 
+* Textures will be visible in a scene, after you enable display mode called "**LookDev**": 
 
 ![shading.jpg](https://bitbucket.org/repo/p4Gp9Be/images/2911808600-shading.jpg)
