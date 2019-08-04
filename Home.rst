@@ -2,7 +2,7 @@
 Quake MDL import/export plugin for Blender 
 =====
 .. image:: https://bitbucket.org/repo/p4Gp9Be/images/2987863032-plugin_01.jpg
-   :scale: 50 %  
+   :scale: 25%
    :alt: plugin_01.jpg
 About:
 --------
