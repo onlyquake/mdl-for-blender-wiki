@@ -21,3 +21,4 @@ Tutorial (for 2.8 version):
 - `Scene Setup <https://bitbucket.org/khreathor/mdl-for-blender/wiki/Scene%20Setup>`_
 - `Materials <https://bitbucket.org/khreathor/mdl-for-blender/wiki/Materials>`_
 - `Animations <https://bitbucket.org/khreathor/mdl-for-blender/wiki/Animations>`_
+- `MDL Knowledge Base <https://bitbucket.org/khreathor/mdl-for-blender/wiki/MDL%20Knowledge%20Base>`_
