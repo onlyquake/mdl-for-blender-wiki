@@ -4,4 +4,4 @@
 
 This can wipe out actual visible portions of the skin if they are painted with a continuous block of colour which extends to the top-left corner. A reasonable workaround is to paint just the top left pixel in a different colour to the adjacent pixels, so that the flood fill is contained." - *Preach*
 
-*Source: http://celephais.net/board/view_thread.php?id=4&start=18928&end=18928#18928*
+*Source: http://celephais.net/board/view_thread.php?id=4&start=18927&end=18929*
