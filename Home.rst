@@ -6,7 +6,9 @@ Quake MDL import/export plugin for Blender
 
 About:
 --------
-Mdl exporter/importer for Blender 2.8 (and 2.7x).
+**(Currently doesn't work with Blender 2.93 - I'm working on it...)**
+
+Mdl exporter/importer for Blender 2.8+ (and 2.7x).
 Originally developed by taniwha for QuakeForge, updated for Blender 2.8 by `khreathor <https://twitter.com/khreathor>`_ with a little help of `queenjaz <https://twitter.com/jazzmickle>`_.
 
 Downloads:
